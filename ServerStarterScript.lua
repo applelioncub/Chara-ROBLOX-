@@ -4,7 +4,8 @@ WARNING! The ROBLOX Script "Chara ROBLOX" is only for Void Script Builder!
 --[[
 		// Filename: ServerStarterScript.lua
 		// Version: 1.0
-		// Description: 
+		// Description: WARNING! The ROBLOX Script "Chara ROBLOX" is only for Void Script Builder!
+
 ]]--
 
 local runService = game:GetService('RunService')
